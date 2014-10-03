@@ -2,6 +2,10 @@
 
 > http://www.desmoinesmc.com/education/music-university/schedule/
 
+## Talks
+
+> '[%]' Signifies Attending
+
 __Saturday__
 
 0830:
@@ -10,7 +14,7 @@ __Saturday__
 
 0900:
 
-- Community Forum: How Nonprofits Can Support Independent Musicians in the New Industry
+- Community Forum: How Nonprofits Can Support Independent Musicians in the New Industry [%]
   - Turner Jazz Center
 
 1000:
@@ -24,8 +28,7 @@ __Saturday__
   - Turner Jazz Center
   - Speaker: Bob Mould (Musician)
 
-
-- Marketing on a Shoestring: Promote Like a Pro with an Indie Budget
+- Marketing on a Shoestring: Promote Like a Pro with an Indie Budget [%]
   - Meredith 238
   - Speakers: Alyssa DeHayes (Riot Act Media), Dustin Smith (Musician, The Maytags)
   - Moderator: Jill Haverkamp (On Pitch)
@@ -37,7 +40,7 @@ __Saturday__
   - Speakers: Brian Campos (Pants Off Podcast), Chad Taylor (Cityview, Critical Mass), Joe Lawler (Juice, Critical Mass), Mark Simmet (Iowa Public Radio)
   - Moderator: John Pemble (Iowa Public Radio)
 
-- Website Demolition Derby: Does Your Site Cut It?
+- Website Demolition Derby: Does Your Site Cut It? [%]
   - Meredith 101
   - Speakers: Alyssa DeHayes (Riot Act Media), Amedeo Rossi (80/35, Nitefall on the River, Vaudeville Mews), John Solarz (Eight Seven Central)
   - Moderator: Adrien Daller (Musician, Trouble Lights)
@@ -45,7 +48,6 @@ __Saturday__
 - Dum Dum Girls Workshop
   - Turner Jazz Center
   - Speakers: Dee Dee and Jules of Dum Dum Girls (Musicians)
-
 
 - Best of Both Worlds: Integrating Tape and Digital in the Studio
   - Sonic Factory, 1159 24th Street
@@ -67,7 +69,7 @@ __Saturday__
   - Meredith 101
   - Speakers: Dee Dee and Jules of Dum Dum Girls (Musicians)
 
-- Paying For Your Project: Exploring Funding Opportunities from Traditional To Cutting Edge
+- Paying For Your Project: Exploring Funding Opportunities from Traditional To Cutting Edge [%]
   - Meredith 238
   - Speakers: Veronica O’Hern (Iowa Arts Council), John June Year (Band), Mary McAdams (Musician)
   - Moderator: Margi Weiss (Fundraising Consultant)
@@ -83,23 +85,23 @@ __Saturday__
   - Meredith 101
   - Speaker: Bob Mould (Musician)
 
-- What a Manager Can Do for a Great Artist
+- What a Manager Can Do for a Great Artist [%]
   - Meredith 238
   - Speakers: David Priebe (Green Room Music Source) + MAIDS
   - Moderator: David Mainelli (Entrepreneur and Musician, Bazile Mills)
 
 1545:
 
-- You Can’t Do It Alone: Getting the Support of a Booking Agency
+- You Can’t Do It Alone: Getting the Support of a Booking Agency [%]
   - Meredith 102
   - Speakers: Craig Grossman (Green Room Music Source), Patrick Tape Fleming (Gloom Balloon, Poison Control Center)
   - Moderator: David Priebe (Green Room Music Source)
 
-- The Fundamentals: Marketing, Recording, Touring, Distribution
+- The Fundamentals: Marketing, Recording, Touring, Distribution [%]
   - Meredith 101
   - Speakers: The River Monks (Musicians)
 
-- Social Media Advertising: Why It Pays to Play with Social Ads
+- Social Media Advertising: Why It Pays to Play with Social Ads [%]
   - Meredith 238
   - Speakers: Jill Haverkamp and Hillary Ferry (On Pitch)
 
