@@ -4,7 +4,7 @@
 
 ## Talks
 
-> '[%]' Signifies Attending
+> '[%]' Signifies might attend
 
 __Saturday__
 
