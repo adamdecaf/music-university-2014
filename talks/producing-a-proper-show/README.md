@@ -28,7 +28,7 @@
 ## Artists
 
 - Need to be able to leverage a tour manager
-  - Just a user that can manage an arist.
+  - Just a user that can manage an artist.
 - Legal framework help?
   - Help with deals and riders?
 - Self promotion
